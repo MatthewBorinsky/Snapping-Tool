@@ -1,3 +1,5 @@
+This was an assignment from UWOCS4482. We were told to create a snapping tool for unity projects. We were given some information so we did not start from scratch entirely but were also told to add additional functionality.
+
 # Snapping Tool
 ## CS4482 Tools 1
 ### Matthew Borinsky
